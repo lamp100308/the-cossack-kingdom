@@ -62,3 +62,10 @@
     right: 30px;
     top: -3px;
 }
+#telegram_ico_def {
+    position: relative;
+    right: -40px;
+}
+#telegram_ico {
+    width: 90px;
+}
