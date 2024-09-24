@@ -5,7 +5,7 @@
 .main {
     background-color: #6256CA;
     width: 100%;
-    height: 100vh;
+    height: 200vh;
 }
 #topbar {
     text-align: center;
@@ -17,7 +17,8 @@
 }
 .main img {
     width: 300px;
-    height: 300px;
+    height: 1
+    00px;
 }
 .main h1 {
     color: #C1E2A4;
@@ -28,7 +29,15 @@
 }
 #topbar a {
     color: #86D293;
-    position: relative;
+    top: 5px;
+    position: fixed;
     font-size: 30px;
-    top: -350px;
+}
+.main hr {
+    position: relative;
+    top: 30px;
+}
+#h2p {
+    position: relative;
+    top: 60px;
 }
